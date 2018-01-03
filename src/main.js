@@ -1,4 +1,5 @@
 import * as React from 'react';
 import { render } from 'react-dom';
-render(React.createElement("div", null, "Salut les gens"), document.getElementById('app'));
+import TodoList from './TodoList';
+render(React.createElement(TodoList, null), document.getElementById('app'));
 //# sourceMappingURL=main.js.map

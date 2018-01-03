@@ -20,6 +20,8 @@
     "webpack-dev-server": "^2.9.7"
   },
   "dependencies": {
+    "@types/classnames": "^2.2.3",
+    "classnames": "^2.2.5",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "tslint": "^5.8.0",
